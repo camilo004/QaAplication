@@ -18,7 +18,6 @@ import com.smartgwt.client.widgets.layout.VStack;
  */
 public class QaTesting implements EntryPoint {
 
-
 	public void onModuleLoad() {
 		final Window mainWindow = new Window();
 		mainWindow.setTitle("Quality Assurance App");
@@ -53,8 +52,7 @@ public class QaTesting implements EntryPoint {
 				// Crear una instancia de la clase RegistroPruebasView
 				RegistroPruebasView registroPruebasView = new RegistroPruebasView();
 				RootPanel.get().add(registroPruebasView);
-				 registroPruebasView.show();
-
+				registroPruebasView.show();
 
 			}
 		});
