@@ -1,0 +1,2 @@
+serviceClass: qa_testing.client.DatabaseService
+path: 180FE37C32CB1BE4DB5C5FDD9A7705EE.gwt.rpc
